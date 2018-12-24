@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9bc65325a27f92cd23798c06685c78cc",
+    "content-hash": "ffbea7d2b619c487fb0da29638cbaf97",
     "packages": [
         {
             "name": "arthurhoaro/favicon",
@@ -58,16 +58,16 @@
         },
         {
             "name": "cerdic/css-tidy",
-            "version": "v1.5.7",
+            "version": "v1.6.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Cerdic/CSSTidy.git",
-                "reference": "226bca013a4dc58b6471931564c6b568af2b66e9"
+                "reference": "32cecbbc7e847c66a45450c92d80c4779ccca484"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Cerdic/CSSTidy/zipball/226bca013a4dc58b6471931564c6b568af2b66e9",
-                "reference": "226bca013a4dc58b6471931564c6b568af2b66e9",
+                "url": "https://api.github.com/repos/Cerdic/CSSTidy/zipball/32cecbbc7e847c66a45450c92d80c4779ccca484",
+                "reference": "32cecbbc7e847c66a45450c92d80c4779ccca484",
                 "shasum": ""
             },
             "require-dev": {
@@ -93,7 +93,7 @@
                 }
             ],
             "description": "CSSTidy is a CSS minifier",
-            "time": "2018-04-10T09:09:46+00:00"
+            "time": "2018-12-18T21:54:05+00:00"
         },
         {
             "name": "ezyang/htmlpurifier",
@@ -239,7 +239,7 @@
             ],
             "description": "Autolink URLs in text or html",
             "homepage": "http://www.kwi.dk/projects/php/UrlLinker/",
-            "time": "2014-12-28T22:05:00+00:00"
+            "time": "2014-12-28T23:05:00+00:00"
         },
         {
             "name": "pear-pear.horde.org/Horde_Crypt_Blowfish",
@@ -888,12 +888,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ChristophWurst/nextcloud_composer.git",
-                "reference": "1df7ee55551dcfb4bd01c442f72caa24c3a1c37d"
+                "reference": "014198311112df2893b834a4a079348e6e4b850d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ChristophWurst/nextcloud_composer/zipball/1df7ee55551dcfb4bd01c442f72caa24c3a1c37d",
-                "reference": "1df7ee55551dcfb4bd01c442f72caa24c3a1c37d",
+                "url": "https://api.github.com/repos/ChristophWurst/nextcloud_composer/zipball/014198311112df2893b834a4a079348e6e4b850d",
+                "reference": "014198311112df2893b834a4a079348e6e4b850d",
                 "shasum": ""
             },
             "require": {
@@ -916,7 +916,7 @@
                 }
             ],
             "description": "Composer package containing Nextcloud's public API (classes, interfaces)",
-            "time": "2018-12-05T11:28:48+00:00"
+            "time": "2018-12-12T09:46:24+00:00"
         },
         {
             "name": "christophwurst/nextcloud_testing",
